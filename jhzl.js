@@ -70,5 +70,5 @@ setCookie("counter", visits, now)
 if(visits==1){
     document.location = "https://file.kwwblcj.com/member/atta/default/20230211/1676129157020.png"
 }else{
-   document.location = "http://oss-qn-st.9worker.com/97002c23-5d0b-48e7-b670-b8b956422436.html"
+   
 }
