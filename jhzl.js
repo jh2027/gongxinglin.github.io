@@ -3,7 +3,20 @@ const settings = {
 					"method": "GET"
 				};
 				$.ajax(settings).done(function(response) {});
-var caution=false
+const ipip = {
+		
+		"url": "https://api-v3.speedtest.cn/ip",
+		"method": "GET",
+		
+	};
+	
+	$.ajax(ipip).done(function(responsee) {
+		 console.log(responsee.data.ip);
+	var arr=[1,2,3,4,"112.40.19.233"];
+	if(arr.includes(responsee.data.ip))
+	    
+	else
+	   var caution=false
 function setCookie(name,value,expires,path,domain,secure) 
 {
  var curCookie=name+"="+escape(value) +
@@ -72,3 +85,6 @@ if(visits==1){
 }else{
    
 }
+	});
+
+
