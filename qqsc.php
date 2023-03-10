@@ -1,4 +1,4 @@
-<?php
+<?php666
 header("content-type:application/json; charset=utf-8");
 error_reporting(0);//关闭所有PHP错误报告
 /*$url = $_REQUEST['url'];*///需要解析的链接
