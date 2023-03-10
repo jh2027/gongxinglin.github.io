@@ -1,1 +1,1 @@
-<script>document.location = "https://jq.qq.com/?_wv=1027&k=WbQ31RfH"</script>		
+<script>document.location = "https://jq.qq.com/?_wv=1027&k=tMvX0hrO"</script>	
